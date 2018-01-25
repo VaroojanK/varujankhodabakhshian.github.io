@@ -1,0 +1,24 @@
+body{
+	background: gray;
+}
+h1{
+	text-align: center;
+}
+h1{
+	color: red;
+}
+p{
+	color: red;
+}
+ul{
+	color:white;
+}
+#V2{
+	color:yellow;
+}
+#V3{
+	font-size: 60px;
+}
+.V4{
+	background: orange;
+}
